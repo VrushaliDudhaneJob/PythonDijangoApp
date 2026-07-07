@@ -1,1 +1,1 @@
-# PythonDijangoApp
+# pythondemo
